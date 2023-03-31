@@ -1,0 +1,12 @@
+C:\Users\user1\source\repos\Logger\Log\bin\Debug\net6.0\Log.deps.json
+C:\Users\user1\source\repos\Logger\Log\bin\Debug\net6.0\Log.dll
+C:\Users\user1\source\repos\Logger\Log\bin\Debug\net6.0\Log.pdb
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.AssemblyInfo.cs
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.dll
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\refint\Log.dll
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\Log.pdb
+C:\Users\user1\source\repos\Logger\Log\obj\Debug\net6.0\ref\Log.dll

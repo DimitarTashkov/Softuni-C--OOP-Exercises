@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\bin\Debug\net6.0\3. MissionPrivateImpossible.exe
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\bin\Debug\net6.0\3. MissionPrivateImpossible.deps.json
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\bin\Debug\net6.0\3. MissionPrivateImpossible.runtimeconfig.json
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\bin\Debug\net6.0\3. MissionPrivateImpossible.dll
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\bin\Debug\net6.0\3. MissionPrivateImpossible.pdb
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.dll
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\refint\3. MissionPrivateImpossible.dll
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.pdb
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\3. MissionPrivateImpossible.genruntimeconfig.cache
+C:\Users\user1\source\repos\Reflection and Attributes\3. MissionPrivateImpossible\obj\Debug\net6.0\ref\3. MissionPrivateImpossible.dll

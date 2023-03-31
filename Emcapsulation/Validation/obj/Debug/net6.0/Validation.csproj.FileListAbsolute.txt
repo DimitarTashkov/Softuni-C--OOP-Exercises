@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Emcapsulation\Validation\bin\Debug\net6.0\Validation.exe
+C:\Users\user1\source\repos\Emcapsulation\Validation\bin\Debug\net6.0\Validation.deps.json
+C:\Users\user1\source\repos\Emcapsulation\Validation\bin\Debug\net6.0\Validation.runtimeconfig.json
+C:\Users\user1\source\repos\Emcapsulation\Validation\bin\Debug\net6.0\Validation.dll
+C:\Users\user1\source\repos\Emcapsulation\Validation\bin\Debug\net6.0\Validation.pdb
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.dll
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\refint\Validation.dll
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.pdb
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\Validation.genruntimeconfig.cache
+C:\Users\user1\source\repos\Emcapsulation\Validation\obj\Debug\net6.0\ref\Validation.dll

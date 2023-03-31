@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.exe
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.deps.json
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.runtimeconfig.json
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.pdb
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfo.cs
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\refint\Multiple Implementation.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.pdb
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.genruntimeconfig.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Multiple Implementation\obj\Debug\net6.0\ref\Multiple Implementation.dll

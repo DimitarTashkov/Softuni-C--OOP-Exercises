@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperation", "MathOperation\MathOperation.csproj", "{47256030-2D14-4497-AC80-F83B4C690133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{EF4D3BFF-F460-4345-A924-DCC631FE6B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{9D049B62-D585-4AA4-8271-BBE21C653880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47256030-2D14-4497-AC80-F83B4C690133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47256030-2D14-4497-AC80-F83B4C690133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47256030-2D14-4497-AC80-F83B4C690133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47256030-2D14-4497-AC80-F83B4C690133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4D3BFF-F460-4345-A924-DCC631FE6B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4D3BFF-F460-4345-A924-DCC631FE6B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4D3BFF-F460-4345-A924-DCC631FE6B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4D3BFF-F460-4345-A924-DCC631FE6B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D049B62-D585-4AA4-8271-BBE21C653880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D049B62-D585-4AA4-8271-BBE21C653880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D049B62-D585-4AA4-8271-BBE21C653880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D049B62-D585-4AA4-8271-BBE21C653880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A532DBB-3D02-4FFF-9B8B-C4DE76F8FD4D}
+	EndGlobalSection
+EndGlobal

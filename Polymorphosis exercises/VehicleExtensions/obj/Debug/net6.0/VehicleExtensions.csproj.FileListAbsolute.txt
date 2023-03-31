@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\bin\Debug\net6.0\VehicleExtensions.exe
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\bin\Debug\net6.0\VehicleExtensions.deps.json
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\bin\Debug\net6.0\VehicleExtensions.runtimeconfig.json
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\bin\Debug\net6.0\VehicleExtensions.dll
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\bin\Debug\net6.0\VehicleExtensions.pdb
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.AssemblyInfo.cs
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.dll
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\refint\VehicleExtensions.dll
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.pdb
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\VehicleExtensions.genruntimeconfig.cache
+C:\Users\user1\source\repos\Polymorphosis exercises\VehicleExtensions\obj\Debug\net6.0\ref\VehicleExtensions.dll

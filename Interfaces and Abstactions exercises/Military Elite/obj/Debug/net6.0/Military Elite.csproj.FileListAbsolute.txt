@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\bin\Debug\net6.0\Military Elite.exe
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\bin\Debug\net6.0\Military Elite.deps.json
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\bin\Debug\net6.0\Military Elite.runtimeconfig.json
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\bin\Debug\net6.0\Military Elite.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\bin\Debug\net6.0\Military Elite.pdb
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.AssemblyInfo.cs
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\refint\Military Elite.dll
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.pdb
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\Military Elite.genruntimeconfig.cache
+C:\Users\user1\source\repos\Interfaces and Abstactions exercises\Military Elite\obj\Debug\net6.0\ref\Military Elite.dll

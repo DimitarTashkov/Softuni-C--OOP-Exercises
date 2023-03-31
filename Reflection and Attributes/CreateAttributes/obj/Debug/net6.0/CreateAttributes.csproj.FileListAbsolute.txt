@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\bin\Debug\net6.0\CreateAttributes.exe
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\bin\Debug\net6.0\CreateAttributes.deps.json
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\bin\Debug\net6.0\CreateAttributes.runtimeconfig.json
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\bin\Debug\net6.0\CreateAttributes.dll
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\bin\Debug\net6.0\CreateAttributes.pdb
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.AssemblyInfo.cs
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.dll
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\refint\CreateAttributes.dll
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.pdb
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\CreateAttributes.genruntimeconfig.cache
+C:\Users\user1\source\repos\Reflection and Attributes\CreateAttributes\obj\Debug\net6.0\ref\CreateAttributes.dll

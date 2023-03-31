@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.exe
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.deps.json
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.runtimeconfig.json
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.dll
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.pdb
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.AssemblyInfo.cs
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.dll
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\refint\Exceptions and Error Handling.dll
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.pdb
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.genruntimeconfig.cache
+C:\Users\user1\source\repos\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\ref\Exceptions and Error Handling.dll
